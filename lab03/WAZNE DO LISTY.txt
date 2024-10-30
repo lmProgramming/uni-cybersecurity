@@ -1,0 +1,1 @@
+czym roznia sie tryby szyfrowania (CBC, cos tam cos tam, strumieniowe itp.)
